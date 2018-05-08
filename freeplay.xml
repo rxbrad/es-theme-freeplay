@@ -5,7 +5,10 @@ author:         Brad Miller (RxBrad)
 email:          brad@rxbrad.com
 website:        rxbrad.com & freeplaytech.com
 license:        creative commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
-based on:       Makes use of system logo assets from the "Carbon" theme by Rookervik
+
+credits to:     
+- multiple system logo assets from the "Carbon" theme by Rookervik
+- "Ports" carousel background: "export" by Jake Dunham from the Noun Project
 -->
 
 <theme>
@@ -21,8 +24,8 @@ based on:       Makes use of system logo assets from the "Carbon" theme by Rooke
 			   <pos>0.5 0.5</pos>
 			   <size>1 1</size>
 			   <color>00000000</color>
-			   <logoScale>2.05</logoScale>
-			   <logoSize>0.175 0.15</logoSize>
+			   <logoScale>2.00</logoScale>
+			   <logoSize>0.175 0.14</logoSize>
 			   <maxLogoCount>3</maxLogoCount>
 			   <logoRotation>-7.8</logoRotation>
 			   <logoRotationOrigin>0.5 -25</logoRotationOrigin>
