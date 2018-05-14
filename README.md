@@ -15,4 +15,19 @@ Screenshots
 
 Recommended Installation Method
 -----------
-TBD
+This theme will eventually be added to the es-themes menu in Retropie.  In the meantime, it can be installed for testing using the following commands:
+
+
+NEW INSTALL:
+```
+sudo git clone --recursive --depth 1 "https://github.com/rxbrad/es-theme-freeplay.git" "/etc/emulationstation/themes/freeplay"
+```
+
+UPDATE EXISTING INSTALL:
+```
+cd "/etc/emulationstation/themes/freeplay"
+
+sudo git pull
+
+sudo git submodule update --init --recursive
+```
