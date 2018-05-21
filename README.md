@@ -31,3 +31,12 @@ sudo git pull
 
 sudo git submodule update --init --recursive
 ```
+
+Changing Theme Color
+-----------
+There are 12 different color variants for this theme.  The color can be changed by editing the color.xml file, and uncommenting the line for the desired color (make sure that only one line is uncommented).
+
+For a Raspberry Pi RetroPie install, the color can be edited with the following command:
+```
+sudo nano /etc/emulationstation/themes/freeplay/color.xml
+```

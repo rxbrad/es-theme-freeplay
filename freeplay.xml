@@ -7,8 +7,8 @@ website:        rxbrad.com & freeplaytech.com
 license:        creative commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 credits to:     
-- multiple system logo assets from the "Carbon" theme by Rookervik
-- "Ports" carousel background: "export" by Jake Dunham from the Noun Project
+- multiple system logo assets: from the "Carbon" theme by Rookervik
+- "Ports" carousel background: "Export" by Jake Dunham from the Noun Project
 -->
 
 <theme>
@@ -138,7 +138,7 @@ credits to:
 		</image>
 		
 		<image name="metadata_background" extra="true">
-			<path>./_inc/images/meta_indent.png</path>
+			<path>./_inc/images/detail_indent_logo_${FPlogo}.png</path>
 			<origin>0 0</origin>
 			<pos>0.64 0.02</pos>
 			<size>0.35 0.89</size>
@@ -164,7 +164,7 @@ credits to:
 			</image>
 			
 			<image name="metadata_background" extra="true">
-				<path>./_inc/images/meta_indent.png</path>
+				<path>./_inc/images/video_indent_logo_${FPlogo}.png</path>
 				<origin>0 0</origin>
 				<pos>0.64 0.02</pos>
 				<size>0.35 0.89</size>

@@ -4,18 +4,16 @@
 	
 	<variables>
 
-	<FPthemeColor>6d60a3</FPthemeColor>
-	<FPselectColor>6d60a3</FPselectColor>
-	<FPtextColor>ffffff</FPtextColor>
+	<!-- LOGO: Options: freeplay, none -->
+	<FPlogo>none</FPlogo>
 
-	<!-- THEME COLORS - multicolor= , indigo=6d60a3, yellow=ffff00 -->
-	<!-- SELECT COLORS - multicolor=, indigo=6d60a3, yellow=ffff00 -->
-	<!-- TEXT COLORS - multicolor=, indigo/black=ffffff, black/yellow=000000 -->	
 	</variables>
 	
-    <include>./freeplay.xml</include>
+	<include>./color.xml</include>
+	<include>./freeplay.xml</include>
 
     <view name="system, basic, detailed, video">
+	
 		<image name="logo">
 			<path>./${system.theme}/system.svg</path>
 		</image>
