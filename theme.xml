@@ -2,15 +2,7 @@
 
     <formatVersion>4</formatVersion>
 	
-	<variables>
-
-	<!-- LOGO: Options: freeplay, none -->
-	<FPlogo>none</FPlogo>
-
-	</variables>
-	
 	<include>./color.xml</include>
-	<include>./freeplay.xml</include>
 
     <view name="system, basic, detailed, video">
 	
@@ -40,5 +32,7 @@
 	<view name="basic"></view>
     
 	<view name="detailed"></view>
+
+	<include>./freeplay.xml</include>
 
 </theme>

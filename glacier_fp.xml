@@ -3,7 +3,7 @@
 <variables>	
 
 	<!-- LOGO: Options: freeplay, none -->
-	<FPlogo>none</FPlogo>
+	<FPlogo>freeplay</FPlogo>
 
 <!-- 
 ************************************************************
@@ -27,13 +27,13 @@
 	<!-- <FPthemeColor>45a95f</FPthemeColor><FPselectColor>45a95f</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 
 	<!-- GLACIER/CLEAR-BLUE THEME: Uncomment line below to activate -->
-	<!-- <FPthemeColor>889cc2</FPthemeColor><FPselectColor>889cc2</FPselectColor><FPtextColor>000000</FPtextColor> -->
+	<FPthemeColor>889cc2</FPthemeColor><FPselectColor>889cc2</FPselectColor><FPtextColor>000000</FPtextColor>
 	
 	<!-- BLUE THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>476ade</FPthemeColor><FPselectColor>476ade</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 	
 	<!-- INDIGO/PURPLE THEME: Uncomment line below to activate -->
-	<FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<!-- <FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 
 	<!-- FUCHSIA THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>d898b0</FPthemeColor><FPselectColor>d898b0</FPselectColor><FPtextColor>000000</FPtextColor> -->

@@ -3,7 +3,7 @@
 Changelog
 -----------
 
-- May 2018 - Work in progress...
+- June 1, 2018 - Initial Release
 
 License
 -----------
@@ -40,3 +40,5 @@ For a Raspberry Pi RetroPie install, the color can be edited with the following 
 ```
 sudo nano /etc/emulationstation/themes/freeplay/color.xml
 ```
+
+There is also a utility you can use to automatically install a separate version of the theme for each possible color.  [See here for more details: https://github.com/rxbrad/rxbrad_themeutils](https://github.com/rxbrad/rxbrad_themeutils)

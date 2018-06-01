@@ -12,7 +12,7 @@
 -->
 	
 	<!-- RED THEME: Uncomment line below to activate -->
-	<!-- <FPthemeColor>d82113</FPthemeColor><FPselectColor>d82113</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
+	<FPthemeColor>d82113</FPthemeColor><FPselectColor>d82113</FPselectColor><FPtextColor>ffffff</FPtextColor>
 	
 	<!-- SPICE/ORANGE THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>d8660d</FPthemeColor><FPselectColor>d8660d</FPselectColor><FPtextColor>000000</FPtextColor> -->
@@ -33,7 +33,7 @@
 	<!-- <FPthemeColor>476ade</FPthemeColor><FPselectColor>476ade</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 	
 	<!-- INDIGO/PURPLE THEME: Uncomment line below to activate -->
-	<FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<!-- <FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 
 	<!-- FUCHSIA THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>d898b0</FPthemeColor><FPselectColor>d898b0</FPselectColor><FPtextColor>000000</FPtextColor> -->

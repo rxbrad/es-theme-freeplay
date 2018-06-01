@@ -3,7 +3,7 @@
 <variables>	
 
 	<!-- LOGO: Options: freeplay, none -->
-	<FPlogo>none</FPlogo>
+	<FPlogo>freeplay</FPlogo>
 
 <!-- 
 ************************************************************

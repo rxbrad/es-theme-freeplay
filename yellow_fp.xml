@@ -3,7 +3,7 @@
 <variables>	
 
 	<!-- LOGO: Options: freeplay, none -->
-	<FPlogo>none</FPlogo>
+	<FPlogo>freeplay</FPlogo>
 
 <!-- 
 ************************************************************
@@ -21,7 +21,7 @@
 	<!-- <FPthemeColor>f3d06a</FPthemeColor><FPselectColor>f3d06a</FPselectColor><FPtextColor>000000</FPtextColor> -->
 
 	<!-- YELLOW THEME: Uncomment line below to activate -->
-	<!-- <FPthemeColor>ffff00</FPthemeColor><FPselectColor>ffff00</FPselectColor><FPtextColor>000000</FPtextColor> -->
+	<FPthemeColor>ffff00</FPthemeColor><FPselectColor>ffff00</FPselectColor><FPtextColor>000000</FPtextColor>
 
 	<!-- GREEN THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>45a95f</FPthemeColor><FPselectColor>45a95f</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
@@ -33,7 +33,7 @@
 	<!-- <FPthemeColor>476ade</FPthemeColor><FPselectColor>476ade</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 	
 	<!-- INDIGO/PURPLE THEME: Uncomment line below to activate -->
-	<FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<!-- <FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 
 	<!-- FUCHSIA THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>d898b0</FPthemeColor><FPselectColor>d898b0</FPselectColor><FPtextColor>000000</FPtextColor> -->

@@ -18,7 +18,7 @@
 	<!-- <FPthemeColor>d8660d</FPthemeColor><FPselectColor>d8660d</FPselectColor><FPtextColor>000000</FPtextColor> -->
 	
 	<!-- GOLD THEME: Uncomment line below to activate -->
-	<!-- <FPthemeColor>f3d06a</FPthemeColor><FPselectColor>f3d06a</FPselectColor><FPtextColor>000000</FPtextColor> -->
+	<FPthemeColor>f3d06a</FPthemeColor><FPselectColor>f3d06a</FPselectColor><FPtextColor>000000</FPtextColor>
 
 	<!-- YELLOW THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>ffff00</FPthemeColor><FPselectColor>ffff00</FPselectColor><FPtextColor>000000</FPtextColor> -->
@@ -33,7 +33,7 @@
 	<!-- <FPthemeColor>476ade</FPthemeColor><FPselectColor>476ade</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 	
 	<!-- INDIGO/PURPLE THEME: Uncomment line below to activate -->
-	<FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<!-- <FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 
 	<!-- FUCHSIA THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>d898b0</FPthemeColor><FPselectColor>d898b0</FPselectColor><FPtextColor>000000</FPtextColor> -->

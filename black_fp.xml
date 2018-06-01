@@ -3,7 +3,7 @@
 <variables>	
 
 	<!-- LOGO: Options: freeplay, none -->
-	<FPlogo>none</FPlogo>
+	<FPlogo>freeplay</FPlogo>
 
 <!-- 
 ************************************************************
@@ -33,13 +33,13 @@
 	<!-- <FPthemeColor>476ade</FPthemeColor><FPselectColor>476ade</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 	
 	<!-- INDIGO/PURPLE THEME: Uncomment line below to activate -->
-	<FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor>
+	<!-- <FPthemeColor>6d60a3</FPthemeColor><FPselectColor>6d60a3</FPselectColor><FPtextColor>ffffff</FPtextColor> -->
 
 	<!-- FUCHSIA THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>d898b0</FPthemeColor><FPselectColor>d898b0</FPselectColor><FPtextColor>000000</FPtextColor> -->
 	
 	<!-- BLACK THEME: Uncomment line below to activate -->
-	<!-- <FPthemeColor>333333</FPthemeColor><FPselectColor>cccccc</FPselectColor><FPtextColor>000000</FPtextColor> -->
+	<FPthemeColor>333333</FPthemeColor><FPselectColor>cccccc</FPselectColor><FPtextColor>000000</FPtextColor>
 
 	<!-- PLATINUM THEME: Uncomment line below to activate -->
 	<!-- <FPthemeColor>9c9da2</FPthemeColor><FPselectColor>9c9da2</FPselectColor><FPtextColor>000000</FPtextColor> -->
