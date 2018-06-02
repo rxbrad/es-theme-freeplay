@@ -40,3 +40,5 @@ For a Raspberry Pi RetroPie install, the color can be edited with the following 
 ```
 sudo nano /etc/emulationstation/themes/freeplay/color.xml
 ```
+
+I'm also working on a script that can be used to automatically install/update all 12 color variants at once (this is done outside of the ESThemes utility).  Check it out at https://github.com/rxbrad/rxbrad_themeutils
