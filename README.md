@@ -15,7 +15,7 @@ Screenshots
 
 Recommended Installation Method
 -----------
-This theme will eventually be added to the es-themes menu in Retropie.  In the meantime, it can be installed for testing using the following commands:
+The easiest install method is using the es-themes menu in Retropie.  It can also be manually installed for using the following commands: (See the note at the end of this Readme for a third installation method that gives you each of the 12 color variants to choose from in the UI Settings menu of EmulationStation.)
 
 
 NEW INSTALL:
