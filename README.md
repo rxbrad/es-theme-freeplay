@@ -15,15 +15,15 @@ Screenshots
 
 Recommended Installation Method
 -----------
-The easiest install method is using the es-themes menu in Retropie.  It can also be manually installed for using the following commands: (See the note at the end of this Readme for a third installation method that gives you each of the 12 color variants to choose from in the UI Settings menu of EmulationStation.)
+The easiest install method is using the es-themes menu in Retropie.  It can also be manually installed using the following commands: (See the note at the end of this Readme for a third installation method that gives you each of the 12 color variants to choose from in the UI Settings menu of EmulationStation.)
 
 
-NEW INSTALL:
+NEW INSTALL (Manual Method):
 ```
 sudo git clone --recursive --depth 1 "https://github.com/rxbrad/es-theme-freeplay.git" "/etc/emulationstation/themes/freeplay"
 ```
 
-UPDATE EXISTING INSTALL:
+UPDATE EXISTING INSTALL (Manual Method):
 ```
 cd "/etc/emulationstation/themes/freeplay"
 
@@ -43,4 +43,4 @@ For a Raspberry Pi RetroPie install, the color can be edited with the following 
 sudo nano /etc/emulationstation/themes/freeplay/color.xml
 ```
 
-I'm also working on a script that can be used to automatically install/update all 12 color variants at once (this is done outside of the ESThemes utility).  Check it out at https://github.com/rxbrad/rxbrad_themeutils
+I've also created a script that can be used to automatically install/update all 12 color variants at once (this is done outside of the ESThemes utility).  Check it out at https://github.com/rxbrad/rxbrad_themeutils
