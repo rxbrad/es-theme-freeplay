@@ -34,7 +34,7 @@ sudo git submodule update --init --recursive
 
 Changing Theme Color
 -----------
-![Red](https://i.imgur.com/YLa8c8A.png)![Orange](https://i.imgur.com/TG7M0TH.png)![Gold](https://i.imgur.com/UU3v0qs.png)![Yellow](https://i.imgur.com/fqaclTh.png)![Green](https://i.imgur.com/b5TOhBK.png)![Blue](https://i.imgur.com/U47t22G.png)![Glacier](https://i.imgur.com/OoUmMJn.png)![Indigo](https://i.imgur.com/EFXJSg8.png)![Fuchsia](https://i.imgur.com/d9fSqdW.png)![White](https://i.imgur.com/nY2fYsY.png)![Platinum](https://i.imgur.com/pQtRBDA.png)![Black](https://i.imgur.com/65KWrpT.png)
+![Red](https://i.imgur.com/YLa8c8At.png)![Orange](https://i.imgur.com/TG7M0THt.png)![Gold](https://i.imgur.com/UU3v0qst.png)![Yellow](https://i.imgur.com/fqaclTht.png)![Green](https://i.imgur.com/b5TOhBKt.png)![Blue](https://i.imgur.com/U47t22Gt.png)![Glacier](https://i.imgur.com/OoUmMJnt.png)![Indigo](https://i.imgur.com/EFXJSg8t.png)![Fuchsia](https://i.imgur.com/d9fSqdWt.png)![White](https://i.imgur.com/nY2fYsYt.png)![Platinum](https://i.imgur.com/pQtRBDAt.png)![Black](https://i.imgur.com/65KWrpTt.png)
 
 There are 12 different color variants for this theme.  The color can be changed by editing the color.xml file, and uncommenting the line for the desired color (make sure that only one line is uncommented).
 
