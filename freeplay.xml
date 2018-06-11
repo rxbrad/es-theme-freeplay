@@ -64,7 +64,7 @@ credits to:
 		</view>
 	</feature>
 
-    <view name="system, basic, detailed, video">
+    <view name="system, basic, detailed, video, grid">
 		<image name="background_color" extra="true">
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
@@ -94,7 +94,7 @@ credits to:
 		</helpsystem>
 	</view>
     
-	<view name="basic">
+	<view name="basic, grid">
 		<image name="logo" extra="false">
 			<origin>0.5 0</origin>
 			<pos>0.5 0.04</pos>
@@ -107,8 +107,18 @@ credits to:
 			<pos>0.5 0.04</pos>
 			<fontSize>0.055</fontSize>
 			<fontPath>./_inc/fonts/Erbaum-Bold.otf</fontPath>
-	    </text>
+		</text>
+		
+		<image name="gamelist_background" extra="true">
+			<path>./_inc/images/menu_glass.png</path>
+			<origin>0.5 0</origin>
+			<pos>0.5 0.0</pos>
+			<size>1 0.92</size>
+			<color>ffffffff</color>
+		</image>
+	</view>
 
+	<view name="basic">
 		<textlist name="gamelist">
 			<selectorColor>${FPselectColor}</selectorColor>
 			<selectedColor>${FPtextColor}</selectedColor>
@@ -120,17 +130,41 @@ credits to:
 			<fontSize>0.06</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 		</textlist>
-		
-		<image name="gamelist_background" extra="true">
-			<path>./_inc/images/menu_glass.png</path>
-			<origin>0.5 0</origin>
-			<pos>0.5 0.0</pos>
-			<size>1 0.92</size>
-			<color>ffffffff</color>
-		</image>
+	</view>
+
+	<view name="grid">
+		<imagegrid name="gamegrid">
+			<pos>0.03 0.22</pos>
+			<size>0.937 0.67</size>
+			<margin>0 0</margin>
+			<gameImage>./_inc/images/missing_logo_${FPlogo}.png</gameImage>
+			<folderImage>./_inc/images/missing_logo_${FPlogo}.png</folderImage>
+		</imagegrid>
+
+		<gridtile name="default">
+			<size>0.312 0.335</size>
+			<padding>11 11</padding>
+			<backgroundColor>00000000</backgroundColor>
+		</gridtile>
+
+		<gridtile name="selected">
+			<size>0.312 0.335</size>
+			<padding>6 6</padding>
+			<backgroundColor>${FPselectColor}ff</backgroundColor>
+			<backgroundCornerSize>5 5</backgroundCornerSize>
+		</gridtile>
+
+		<text name="md_name">
+			<color>ffffff</color>
+			<pos>0.03 0.14</pos>
+			<size>0.937 0.06</size>
+			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
+			<alignment>center</alignment>
+			<fontSize>0.06</fontSize>
+		</text>
 	</view>
 	
-    <view name="detailed">
+    	<view name="detailed">
 		<image name="md_image">
 		<origin>0.5 1</origin>
 		<pos>0.815 0.89</pos>
@@ -139,7 +173,7 @@ credits to:
 		</image>
 		
 		<image name="metadata_background" extra="true">
-			<path>./_inc/images/detail_indent_logo_${FPlogo}.png</path>
+			<path>./_inc/images/detail_indeznt_logo_${FPlogo}.png</path>
 			<origin>0 0</origin>
 			<pos>0.64 0.02</pos>
 			<size>0.35 0.89</size>
@@ -227,6 +261,12 @@ credits to:
 			<pos>1 1</pos>
 		</text>
 	
+	</view>
+
+	<view name="grid">
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+			<pos>1 1</pos>
+		</text>
 	</view>
 
 </theme>

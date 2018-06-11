@@ -3,7 +3,8 @@
 Changelog
 -----------
 
-- June 1, 2018 - Initial Release
+- June 11, 2018 - Add support for Grid View
+- June 1, 2018  - Initial Release
 
 License
 -----------
