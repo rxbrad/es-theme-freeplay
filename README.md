@@ -13,6 +13,12 @@ Screenshots
 -----------
 ![System Select Screen](http://i.imgur.com/wIjmpyt.png) ![Detailed Game List](http://i.imgur.com/AJSVHLx.png)
 
+Recommended EmulationStation UI Settings
+-----------
+* Carousel Transitions: ON
+* Transition Style: Instant
+* Gamelist View Style: Automatic
+
 Recommended Installation Method
 -----------
 1) The easiest install method is using the es-themes menu in Retropie 
