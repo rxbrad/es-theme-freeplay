@@ -4,7 +4,7 @@
 	
 	<include>./color.xml</include>
 
-    <view name="system, basic, detailed, video, grid">
+    <view name="system, basic, detailed, video">
 	
 		<image name="logo">
 			<path>./${system.theme}/system.svg</path>
@@ -28,6 +28,10 @@
 			<selectorColor>${FPselectColor}</selectorColor>
 		</textlist>
 	</view>
+	
+	<view name="basic"></view>
+    
+	<view name="detailed"></view>
 
 	<include>./freeplay.xml</include>
 
