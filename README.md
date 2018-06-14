@@ -35,6 +35,8 @@ UPDATE EXISTING INSTALL (Manual Method):
 ```
 cd "/etc/emulationstation/themes/freeplay"
 
+sudo git reset --hard
+
 sudo git pull
 
 sudo git submodule update --init --recursive
