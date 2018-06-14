@@ -35,6 +35,8 @@ UPDATE EXISTING INSTALL (Manual Method):
 ```
 cd "/etc/emulationstation/themes/freeplay"
 
+sudo git reset --hard
+
 sudo git pull
 
 sudo git submodule update --init --recursive
@@ -56,4 +58,9 @@ I've also created a script that can be used to automatically install/update all 
 
 Additional Configurable Options
 -----------
+<<<<<<< HEAD
 - You can replace the marquee on the Video view with metadata by editing the theme.xml file and changing metadata_none.xml to metadata_basic.xml
+=======
+- You can replace the marquee on the Video view with metadata by editing the theme.xml file and changing metadata_none.xml to metadata_basic.xml
+- You can change the font size on the gamelist by editing the color.xml file
+>>>>>>> 5c83f50df41aacff4e4cc86454ebc85bc8640e69
