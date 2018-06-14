@@ -3,7 +3,6 @@
 <variables>	
 
 	<FPlogo>none</FPlogo> <!-- Options: freeplay, none -->
-	<FPgamelistFontsize>0.06</FPgamelistFontsize> <!-- Default: 0.06 -->
 
 <!-- 
 ************************************************************

@@ -3,7 +3,7 @@
 Changelog
 -----------
 
-- June 14, 2018 - Add option to change gamelist font size, and to show metadata on Video view instead of marquee
+- June 14, 2018 - Add option to show metadata on Video view instead of marquee
 - June 1, 2018 - Initial Release
 
 License
@@ -57,4 +57,3 @@ I've also created a script that can be used to automatically install/update all 
 Additional Configurable Options
 -----------
 - You can replace the marquee on the Video view with metadata by editing the theme.xml file and changing metadata_none.xml to metadata_basic.xml
-- You can change the font size on the gamelist by editing the color.xml file
