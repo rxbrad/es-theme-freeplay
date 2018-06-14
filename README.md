@@ -3,6 +3,7 @@
 Changelog
 -----------
 
+- June 14, 2018 - Add option to change gamelist font size, and to show metadata on Video view instead of marquee
 - June 1, 2018 - Initial Release
 
 License
@@ -23,7 +24,7 @@ Recommended Installation Method
 -----------
 1) The easiest install method is using the es-themes menu in Retropie 
 2) It can also be manually installed/updated using the commands below
-3) See the note at the end of this Readme for a third installation method that gives you each of the 12 color variants to choose from in the UI Settings menu of EmulationStation (note that this install method is completely separate from the es-themes menu in Retropie)
+3) You can use a utility to install a separate version of the theme for each of the twelve possible color variants. See https://github.com/rxbrad/rxbrad_themeutils for details.
 
 NEW INSTALL (Manual Method):
 ```
@@ -51,3 +52,9 @@ sudo nano /etc/emulationstation/themes/freeplay/color.xml
 ```
 
 I've also created a script that can be used to automatically install/update all 12 color variants at once (this is done outside of the ESThemes utility).  Check it out at https://github.com/rxbrad/rxbrad_themeutils
+
+
+Additional Configurable Options
+-----------
+- You can replace the marquee on the Video view with metadata by editing the theme.xml file and changing metadata_none.xml to metadata_basic.xml
+- You can change the font size on the gamelist by editing the color.xml file

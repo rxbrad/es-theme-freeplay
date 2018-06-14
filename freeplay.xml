@@ -117,7 +117,7 @@ credits to:
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.03 0.15</pos>
 			<size>0.937 0.74</size>
-			<fontSize>0.06</fontSize>
+			<fontSize>${FPgamelistFontsize}</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 		</textlist>
 		
@@ -157,12 +157,6 @@ credits to:
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
 				<showSnapshotDelay>true</showSnapshotDelay>
 			</video>
-
-			<image name="md_marquee">
-				<maxSize>0.325 0.260</maxSize>
-				<pos>0.815 0.18</pos>
-				<origin>0.5 0.5</origin>
-			</image>
 			
 			<image name="metadata_background" extra="true">
 				<path>./_inc/images/video_indent_logo_${FPlogo}.png</path>
@@ -172,6 +166,7 @@ credits to:
 				<color>ffffff33</color>
 			</image>
 		</view>
+
 	</feature>
 	
 	<feature supported="z-index">
@@ -217,15 +212,10 @@ credits to:
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.02 0.15</pos>
 			<size>0.595 0.74</size>
-			<fontSize>0.06</fontSize>
+			<fontSize>${FPgamelistFontsize}</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
-		
-	
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-			<pos>1 1</pos>
-		</text>
 	
 	</view>
 

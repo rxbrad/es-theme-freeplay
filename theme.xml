@@ -3,6 +3,7 @@
     <formatVersion>4</formatVersion>
 	
 	<include>./color.xml</include>
+	<include>./metadata_none.xml</include>  <!-- Options: metadata_none, metadata_basic -->
 
     <view name="system, basic, detailed, video">
 	
