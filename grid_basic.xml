@@ -1,0 +1,95 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+	<view name="grid"> <!-- Same window layout as Basic view -->
+		<image name="logo" extra="false">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.04</pos>
+			<maxSize>0.45 0.08</maxSize>
+		</image>
+		
+		<text name="logoText">
+			<color>FFFFFF</color>
+			<origin>0.5 0</origin>
+			<pos>0.5 0.04</pos>
+			<fontSize>0.055</fontSize>
+			<fontPath>./_inc/fonts/Erbaum-Bold.otf</fontPath>
+	    </text>
+
+		
+		<image name="gamelist_background" extra="true">
+			<path>./_inc/images/menu_glass.png</path>
+			<zIndex>19</zIndex>
+			<origin>0.5 0</origin>
+			<pos>0.5 0.0</pos>
+			<size>1 0.92</size>
+			<color>ffffffff</color>
+		</image>
+	</view>
+
+	<view name="grid"> <!-- Grid layout -->
+   		<imagegrid name="gamegrid">
+
+			<pos>0.03 0.22</pos>
+
+			<size>0.937 0.67</size>
+
+			<margin>0 0</margin>
+
+			<gameImage>./_inc/images/missing_logo_${FPlogo}.png</gameImage>
+
+			<folderImage>./_inc/images/missing_logo_${FPlogo}.png</folderImage>
+
+		</imagegrid>
+
+
+		<gridtile name="default">
+
+			<size>0.312 0.335</size>
+
+			<padding>11 11</padding>
+
+			<backgroundColor>00000000</backgroundColor>
+
+		</gridtile>
+
+
+		<gridtile name="selected">
+
+			<size>0.312 0.335</size>
+
+			<padding>6 6</padding>
+
+			<backgroundColor>${FPselectColor}ff</backgroundColor>
+
+		</gridtile>
+
+
+		<text name="md_name">
+
+			<color>ffffff</color>
+
+			<pos>0.03 0.14</pos>
+
+			<size>0.937 0.06</size>
+
+			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
+
+			<alignment>center</alignment>
+
+			<fontSize>0.06</fontSize>
+
+		</text>
+
+	</view>
+
+	<view name="grid"> <!-- Hide extraneous metadata -->
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+
+			<pos>1 1</pos>
+
+		</text>
+
+	</view>
+
+</theme>

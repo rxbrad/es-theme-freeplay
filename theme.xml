@@ -4,8 +4,9 @@
 	
 	<include>./color.xml</include>
 	<include>./metadata_none.xml</include>  <!-- Options: metadata_none, metadata_basic -->
+	<include>./grid_metadata.xml</include>  <!-- Options: grid_basic, grid_metadata -->
 
-    <view name="system, basic, detailed, video">
+    <view name="system, basic, detailed, video, grid">
 	
 		<image name="logo">
 			<path>./${system.theme}/system.svg</path>
@@ -33,6 +34,10 @@
 	<view name="basic"></view>
     
 	<view name="detailed"></view>
+
+	<view name="video"></view>
+
+	<view name="grid"></view>
 
 	<include>./freeplay.xml</include>
 

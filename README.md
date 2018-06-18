@@ -3,7 +3,8 @@
 Changelog
 -----------
 
-- June 14, 2018 - Add option to show metadata on Video view instead of marquee
+- June 18, 2018 - Add Grid View support with basic & metadata variant selectable in theme.xml
+- June 14, 2018 - Add option to show metadata on Video view instead of marquee, selectable in theme.xml
 - June 1, 2018 - Initial Release
 
 License
@@ -59,3 +60,4 @@ I've also created a script that can be used to automatically install/update all 
 Additional Configurable Options
 -----------
 - You can replace the marquee on the Video view with metadata by editing the theme.xml file and changing metadata_none.xml to metadata_basic.xml
+- You can choose between a basic and metadata version of the Grid Vie wby editing the theme.xml file
