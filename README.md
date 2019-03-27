@@ -1,5 +1,11 @@
 # Freeplay Theme for EmulationStation
 
+Recommended EmulationStation UI Settings
+-----------
+* Carousel Transitions: ON
+* **Transition Style: _Instant_**
+* Gamelist View Style: Automatic
+
 Changelog
 -----------
 
@@ -13,12 +19,6 @@ Creative Commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0
 Screenshots
 -----------
 ![System Select Screen](http://i.imgur.com/wIjmpyt.png) ![Detailed Game List](http://i.imgur.com/AJSVHLx.png)
-
-Recommended EmulationStation UI Settings
------------
-* Carousel Transitions: ON
-* Transition Style: Instant
-* Gamelist View Style: Automatic
 
 Recommended Installation Method
 -----------
