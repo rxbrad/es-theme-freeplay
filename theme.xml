@@ -1,14 +1,33 @@
 <theme>
 
-    <formatVersion>4</formatVersion>
+    <formatVersion>7</formatVersion>
 	
-	<include>./color.xml</include>
 	<include>./metadata_none.xml</include>  <!-- Options: metadata_none, metadata_basic -->
+
+    <variables>
+		<subset.colorset>Theme Color</subset.colorset>
+    </variables>
+
+     <subset name="colorset" displayName="${subset.colorset}">
+        <include name="red" displayName="${red}">./_colors/red.xml</include>
+		<include name="blue" displayName="${blue}">./_colors/blue.xml</include>
+		<include name="green" displayName="${green}">./_colors/green.xml</include>
+		<include name="indigo" displayName="${indigo}">./_colors/indigo.xml</include>
+		<include name="orange" displayName="${orange}">./_colors/orange.xml</include>
+		<include name="yellow" displayName="${yellow}">./_colors/yellow.xml</include>
+		<include name="fuchsia" displayName="${fuchsia}">./_colors/fuchsia.xml</include>
+		<include name="glacier" displayName="${glacier}">./_colors/glacier.xml</include>
+		<include name="gold" displayName="${gold}">./_colors/gold.xml</include>
+		<include name="platinum" displayName="${platinum}">./_colors/platinum.xml</include>
+		<include name="white" displayName="${white}">./_colors/white.xml</include>
+		<include name="black" displayName="${black}">./_colors/black.xml</include>
+    </subset>
 
     <view name="system, basic, detailed, video">
 	
 		<image name="logo">
 			<path>./${system.theme}/system.svg</path>
+			<path>./${system.theme}/system.png</path>
 		</image>
 		
 		<textlist name="gamelist">
@@ -19,9 +38,10 @@
 	 <view name="system">
 		<image name="buttonmap" extra="true">
 			<path>./${system.theme}/buttons.svg</path>
+			<path>./${system.theme}/buttons.png</path>
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.220</pos>
-			<maxSize>1 0.320</maxSize>
+			<maxSize>1 0.200</maxSize>
 			<color>${FPselectColor}66</color>
 		</image>
 		

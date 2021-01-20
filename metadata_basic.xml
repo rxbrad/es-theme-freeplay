@@ -1,6 +1,6 @@
 <theme>
 
-    <formatVersion>4</formatVersion>
+    <formatVersion>7</formatVersion>
 	
 	<view name="basic"></view>
     
@@ -15,7 +15,7 @@
 		</image>
 
 		
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>FFFFFF</color>
 
 			<fontSize>0.035</fontSize>
@@ -37,17 +37,6 @@
 			<fontSize>0.035</fontSize>
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 		</datetime>
-
-		<text name="md_lbl_rating">
-			<pos>0.645 0.0225</pos>
-		</text>
-		<rating name="md_rating">
-			<pos>0.7925 0.0225</pos>
-			<size>0.185 0.035</size>
-			<filledPath>./_inc/images/star_full.png</filledPath>
-			<unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
-			<color>ffffff</color>
-		</rating>
 		
 		<text name="md_lbl_releasedate">
 			<pos>0.645 0.065</pos>

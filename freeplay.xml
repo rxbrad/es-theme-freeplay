@@ -12,7 +12,7 @@ credits to:
 -->
 
 <theme>
-    <formatVersion>4</formatVersion>
+    <formatVersion>7</formatVersion>
 
 
 	
@@ -90,7 +90,7 @@ credits to:
 			<textColor>${FPtextColor}</textColor>
 			<iconColor>${FPtextColor}</iconColor>
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.025</fontSize>
 		</helpsystem>
 	</view>
     
@@ -117,7 +117,7 @@ credits to:
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.03 0.15</pos>
 			<size>0.937 0.74</size>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 		</textlist>
 		
@@ -212,11 +212,27 @@ credits to:
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.02 0.15</pos>
 			<size>0.595 0.74</size>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
 	
 	</view>
+	  <view name="menu">
+      <menuBackground name="menubg">
+      <color>232324</color>
+      </menuBackground>
+     </view>
+	  <view name="screen">
+      <text name="clock">
+      <color>${FPtextColor}</color>
+	  <fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
+      <fontSize>0.035</fontSize>
+      <pos>0.8999 0.936</pos>
+      <size>0.09 0.058</size>
+      <alignment>right</alignment>
+      <verticalAlignment>center</verticalAlignment>
+    </text>
+  </view>
 
 </theme>
