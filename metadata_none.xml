@@ -2,7 +2,7 @@
 
     <formatVersion>7</formatVersion>
 	
-	<view name="grid, detailed, video">
+	<view name="detailed, video">
 	
 		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<pos>1 1</pos>
@@ -23,7 +23,5 @@
 		</image>
 
 	</view>
-	
-	<view name="grid"></view>
 
 </theme>
