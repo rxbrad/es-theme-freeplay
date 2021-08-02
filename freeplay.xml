@@ -44,7 +44,7 @@ credits to:
 			</image>
 		  
 		  <image name="carousel_background" extra="true">
-			<path>./_inc/images/menu_glass.png</path>
+			<path>./_inc/images/menu_glass.svg</path>
 			<origin>0.5 1</origin>
 			<pos>0.5 0.65</pos>
 			<maxSize>1.2 5</maxSize>
@@ -123,7 +123,7 @@ credits to:
 		</textlist>
 		
 		<image name="gamelist_background" extra="true">
-			<path>./_inc/images/menu_glass.png</path>
+			<path>./_inc/images/menu_glass.svg</path>
 			<origin>0.5 0</origin>
 			<pos>0.5 0.0</pos>
 			<size>1 0.92</size>
@@ -184,7 +184,7 @@ credits to:
 	<view name="detailed,video">
 
 		<image name="gamelist_background" extra="true">
-			<path>./_inc/images/menu_glass.png</path>
+			<path>./_inc/images/menu_glass.svg</path>
 			<origin>0 0</origin>
 			<pos>0.003 0.0</pos>
 			<size>0.63 0.92</size>
