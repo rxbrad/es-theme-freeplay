@@ -117,8 +117,8 @@ credits to:
 			<secondaryColor>ffff80</secondaryColor>
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.03 0.15</pos>
-			<size>0.937 0.74</size>
-			<fontSize>0.05</fontSize>
+			<size>0.937 0.78</size>
+			<fontSize>0.04</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 		</textlist>
 		
