@@ -111,14 +111,14 @@ credits to:
 	    </text>
 
 		<textlist name="gamelist">
-			<selectorColor>fffffff00</selectorColor>
-			<selectedColor>${FPselectColor}</selectedColor>
+			<selectorColor>${FPselectColor}</selectorColor>
+			<selectedColor>${FPtextColor}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffff80</secondaryColor>
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.03 0.15</pos>
-			<size>0.937 0.78</size>
-			<lineSpacing>1.5</lineSpacing>
+			<size>0.937 0.755</size>
+			<lineSpacing>1.45</lineSpacing>
 		</textlist>
 		
 		<image name="gamelist_background" extra="true">
@@ -205,14 +205,14 @@ credits to:
 		</image>
 		
 		<textlist name="gamelist">
-			<selectorColor>fffffff00</selectorColor>
-			<selectedColor>${FPselectColor}</selectedColor>
+			<selectorColor>${FPselectColor}</selectorColor>
+			<selectedColor>${FPtextColor}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffff80</secondaryColor>
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.02 0.145</pos>
-			<size>0.595 0.76</size>
-			<lineSpacing>1.5</lineSpacing>
+			<size>0.595 0.755</size>
+			<lineSpacing>1.45</lineSpacing>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
 		
