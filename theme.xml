@@ -6,6 +6,7 @@
 
     <variables>
 		<subset.colorset>Theme Color</subset.colorset>
+		<fontsize>Gamelist Font Size</fontsize>
     </variables>
 
      <subset name="colorset" displayName="${subset.colorset}">
@@ -21,6 +22,11 @@
 		<include name="platinum" displayName="${platinum}">./_colors/platinum.xml</include>
 		<include name="white" displayName="${white}">./_colors/white.xml</include>
 		<include name="black" displayName="${black}">./_colors/black.xml</include>
+    </subset>
+	
+	<subset name="fontsize" displayName="${fontsize}">
+        <include name="normal" displayName="${normal}">./_inc/xml/normal.xml</include>
+		<include name="large" displayName="${large}">./_inc/xml/large.xml</include>
     </subset>
 
     <view name="system, basic, detailed, video">
