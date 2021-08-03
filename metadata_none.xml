@@ -17,8 +17,8 @@
 	<view name="video">
 
 		<image name="md_marquee">
-			<maxSize>0.325 0.260</maxSize>
-			<pos>0.815 0.18</pos>
+			<maxSize>0.325 0.220</maxSize>
+			<pos>0.815 0.20</pos>
 			<origin>0.5 0.5</origin>
 		</image>
 

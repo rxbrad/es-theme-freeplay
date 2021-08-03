@@ -44,11 +44,12 @@ credits to:
 			</image>
 		  
 		  <image name="carousel_background" extra="true">
-			<path>./_inc/images/menu_glass.png</path>
+			<path>./_inc/images/menu_glass.svg</path>
 			<origin>0.5 1</origin>
 			<pos>0.5 0.65</pos>
 			<maxSize>1.2 5</maxSize>
 			<rotation>180</rotation>
+			<zIndex>38</zIndex>
 			<color>ffffffff</color>
 		</image>
 		  
@@ -116,13 +117,13 @@ credits to:
 			<secondaryColor>ffff80</secondaryColor>
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
 			<pos>0.03 0.15</pos>
-			<size>0.937 0.74</size>
-			<fontSize>0.05</fontSize>
+			<size>0.937 0.78</size>
+			<fontSize>0.04</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 		</textlist>
 		
 		<image name="gamelist_background" extra="true">
-			<path>./_inc/images/menu_glass.png</path>
+			<path>./_inc/images/menu_glass.svg</path>
 			<origin>0.5 0</origin>
 			<pos>0.5 0.0</pos>
 			<size>1 0.92</size>
@@ -183,7 +184,7 @@ credits to:
 	<view name="detailed,video">
 
 		<image name="gamelist_background" extra="true">
-			<path>./_inc/images/menu_glass.png</path>
+			<path>./_inc/images/menu_glass.svg</path>
 			<origin>0 0</origin>
 			<pos>0.003 0.0</pos>
 			<size>0.63 0.92</size>
@@ -210,9 +211,9 @@ credits to:
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffff80</secondaryColor>
 			<fontPath>./_inc/fonts/Helsinki-Narrow.ttf</fontPath>
-			<pos>0.02 0.15</pos>
-			<size>0.595 0.74</size>
-			<fontSize>0.05</fontSize>
+			<pos>0.02 0.145</pos>
+			<size>0.595 0.76</size>
+			<fontSize>0.04</fontSize>
 			<lineSpacing>1.51</lineSpacing>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
