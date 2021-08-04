@@ -1,8 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="23.58 0 290 60" height="60" width="290">
-  <g aria-label="LAST" style="line-height:3.25;-inkscape-font-specification:Erbaum" font-weight="400" font-size="29.33" font-family="Erbaum" letter-spacing="7.44" word-spacing="0" fill="#fff" stroke="none" stroke-width="5" stroke-linejoin="round" stroke-opacity="0" text-anchor="middle">
-    <path d="M125.72 22.37V4.07h-2.78v20.7h13.96v-2.4zM163.3 24.78h2.85l-7.42-20.71h-4.02l-7.42 20.7h2.84l2.15-6.04h8.88zm-10.14-8.45l3.57-10.03 3.55 10.03zM182.97 25.07h5.07c3.9 0 5.63-1.61 5.63-5.31v-1.44c0-3.1-1.26-4.34-4.92-4.87l-5.26-.76c-2.64-.41-3.25-.94-3.25-2.93v-.3c0-2.43.9-3.28 3.58-3.28h3.37c2.67 0 3.58.82 3.58 3.23v.2l2.76-.35c.03-.06.03-.09.03-.24 0-3.63-1.74-5.25-5.67-5.25h-4.8c-3.94 0-5.64 1.62-5.64 5.31v1.32c0 3.08 1.3 4.32 4.96 4.84l5.22.77c2.58.38 3.26.96 3.26 2.93v.44c0 2.43-.91 3.28-3.58 3.28h-3.64c-2.67 0-3.55-.85-3.55-3.22v-.2l-2.79.34v.24c0 3.64 1.7 5.25 5.64 5.25zM221.74 4.07h-16.66v2.4H212v18.3h2.79V6.48h6.95z" style="line-height:2.25;-inkscape-font-specification:Erbaum;text-align:center"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="system.svg"
+   id="svg2675"
+   version="1.1"
+   width="340"
+   height="60"
+   viewBox="23.58 0 340 60">
+  <metadata
+     id="metadata2681">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2679" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg2675"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="45.578623"
+     inkscape:cx="198.30622"
+     inkscape:zoom="2.6016653"
+     showgrid="false"
+     id="namedview2677"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(21.24)"
+     id="g2669"
+     text-anchor="middle"
+     stroke-opacity="0"
+     stroke-linejoin="round"
+     stroke-width="5"
+     stroke="none"
+     fill="#ffffff"
+     word-spacing="0"
+     letter-spacing="7.44"
+     font-family="Erbaum"
+     font-size="29.33px"
+     font-weight="400"
+     style="line-height:3.25;-inkscape-font-specification:Erbaum"
+     aria-label="LAST">
+    <path
+       id="path2667"
+       style="line-height:2.25;-inkscape-font-specification:Erbaum;text-align:center"
+       d="M 125.72,22.37 V 4.07 h -2.78 v 20.7 h 13.96 v -2.4 z m 37.58,2.41 h 2.85 L 158.73,4.07 h -4.02 l -7.42,20.7 h 2.84 l 2.15,-6.04 h 8.88 z m -10.14,-8.45 3.57,-10.03 3.55,10.03 z m 29.81,8.74 h 5.07 c 3.9,0 5.63,-1.61 5.63,-5.31 v -1.44 c 0,-3.1 -1.26,-4.34 -4.92,-4.87 l -5.26,-0.76 c -2.64,-0.41 -3.25,-0.94 -3.25,-2.93 v -0.3 c 0,-2.43 0.9,-3.28 3.58,-3.28 h 3.37 c 2.67,0 3.58,0.82 3.58,3.23 v 0.2 l 2.76,-0.35 c 0.03,-0.06 0.03,-0.09 0.03,-0.24 0,-3.63 -1.74,-5.25 -5.67,-5.25 h -4.8 c -3.94,0 -5.64,1.62 -5.64,5.31 v 1.32 c 0,3.08 1.3,4.32 4.96,4.84 l 5.22,0.77 c 2.58,0.38 3.26,0.96 3.26,2.93 v 0.44 c 0,2.43 -0.91,3.28 -3.58,3.28 h -3.64 c -2.67,0 -3.55,-0.85 -3.55,-3.22 v -0.2 l -2.79,0.34 v 0.24 c 0,3.64 1.7,5.25 5.64,5.25 z m 38.77,-21 h -16.66 v 2.4 H 212 v 18.3 h 2.79 V 6.48 h 6.95 z" />
   </g>
-  <g aria-label="PLAYED" style="line-height:1.25;-inkscape-font-specification:'Erbaum Bold'" font-weight="700" font-size="40" font-family="Erbaum" letter-spacing="0" word-spacing="0" fill="#fff">
-    <path d="M103.89 30.2h-15.4v28.53h7.2V48.8h8.2c4.8 0 7.24-2.4 7.24-7.08v-4.44c0-4.68-2.44-7.08-7.24-7.08zm.04 10.37c0 1.56-.56 2.12-2.2 2.12h-6.04v-6.36h6.04c1.64 0 2.2.52 2.2 2.12zM123.58 52.6V30.2h-7.2v28.53h19.8V52.6zM160.3 58.73h7.4l-9-28.52h-10.52l-9 28.52h7.36l1.84-6.12h10.08zm-10.04-12.28l3.2-10.56 3.16 10.56zM194.48 30.2h-8l-5.8 10.97-5.84-10.96h-8l10.2 18.8v9.72h7.24V49zM219.74 36.33V30.2H199.5v28.52h20.24V52.6H206.7v-5.4h11.36v-6.12H206.7v-4.76zM241.39 30.2H225.9v28.53h15.48c4.84 0 7.28-2.4 7.28-7.08V37.29c0-4.68-2.44-7.08-7.28-7.08zm.08 20.29c0 1.56-.56 2.12-2.24 2.12h-6.12V36.33h6.12c1.68 0 2.24.52 2.24 2.12z"/>
+  <g
+     transform="translate(25.005)"
+     id="g2673"
+     fill="#ffffff"
+     word-spacing="0"
+     letter-spacing="0"
+     font-family="Erbaum"
+     font-size="40px"
+     font-weight="700"
+     style="line-height:1.25;-inkscape-font-specification:'Erbaum Bold'"
+     aria-label="PLAYED">
+    <path
+       id="path2671"
+       d="m 103.89,30.2 h -15.4 v 28.53 h 7.2 V 48.8 h 8.2 c 4.8,0 7.24,-2.4 7.24,-7.08 v -4.44 c 0,-4.68 -2.44,-7.08 -7.24,-7.08 z m 0.04,10.37 c 0,1.56 -0.56,2.12 -2.2,2.12 h -6.04 v -6.36 h 6.04 c 1.64,0 2.2,0.52 2.2,2.12 z M 123.58,52.6 V 30.2 h -7.2 v 28.53 h 19.8 V 52.6 Z m 36.72,6.13 h 7.4 l -9,-28.52 h -10.52 l -9,28.52 h 7.36 l 1.84,-6.12 h 10.08 z m -10.04,-12.28 3.2,-10.56 3.16,10.56 z M 194.48,30.2 h -8 l -5.8,10.97 -5.84,-10.96 h -8 l 10.2,18.8 v 9.72 h 7.24 V 49 Z m 25.26,6.13 V 30.2 H 199.5 v 28.52 h 20.24 V 52.6 H 206.7 v -5.4 h 11.36 V 41.08 H 206.7 V 36.32 Z M 241.39,30.2 H 225.9 v 28.53 h 15.48 c 4.84,0 7.28,-2.4 7.28,-7.08 V 37.29 c 0,-4.68 -2.44,-7.08 -7.28,-7.08 z m 0.08,20.29 c 0,1.56 -0.56,2.12 -2.24,2.12 h -6.12 V 36.33 h 6.12 c 1.68,0 2.24,0.52 2.24,2.12 z" />
   </g>
 </svg>
